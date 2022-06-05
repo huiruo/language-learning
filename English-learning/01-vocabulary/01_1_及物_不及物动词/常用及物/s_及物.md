@@ -1,0 +1,15 @@
+## satisfy
+## set
+## share
+## shift
+## solve
+## spend
+## spoil
+## stiumulate
+## strengthen
+## supply
+## support
+## suppress
+## suspend
+## sustain
+## select

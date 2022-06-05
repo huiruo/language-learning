@@ -1,0 +1,10 @@
+## inform
+## ignore
+## imitate
+## impair
+## implement
+## impose
+## improve
+## increse
+## initiate
+## integrate
