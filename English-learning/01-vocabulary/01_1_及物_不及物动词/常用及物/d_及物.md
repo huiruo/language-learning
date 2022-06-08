@@ -16,3 +16,6 @@
 ## disrupt
 ## distract
 ## distribute
+
+## detach
+vt.分离，拆开；派遣；分派；使超然
