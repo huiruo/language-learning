@@ -1,43 +1,119 @@
-ultimately 最终
+## ultimately
+```
+[ˈʌltɪmətli]
+adv.
+最后，最终；基本上
+```
 
-unabashedly 毫不掩饰地
+## unabashedly
+```
+[,ʌnə'bæʃtli]
+老着脸皮；
+```
 
-unaccountably 不负责任地
+## unaccountably
+```
+[ˌʌnəˈkaʊntəbli]
+adv.
+不能说明地，不可解释地；无责任地；
+```
 
-unbearably 难以忍受地
+## unbearably
+```
+[ʌn'beərəblɪ]
+adv.
+不能忍受地，无法容忍地；
+```
 
-unethically 不道德地
+## unexpectedly
+```
+adv.
+未料到地，意外地；竟；居然；
+```
 
-unexpectedly 出乎意料地
+## unfortunately
+```
+adv.
+不幸地，遗憾地；可惜；不巧
+```
 
-unfortunately 遗憾的是
+## unnaturally
+```
+adv.
+违反习俗地；不自然地；勉强地；
+```
 
-unimpressively 不堪入目地
+## unnecessarily
+```
+adv.
+不必要地，多余地，
+```
+## utterly
+```
+['ʌtəli:]
+adv.
+全然，完全地；彻底地，绝对的；
+```
 
-unnaturally 不自然地
+## upliftingly
+```
+adj.
+直立的；垂直的；正直的；诚实的
 
-unnecessarily 不必要地
+adv.
+垂直[竖立]地；
 
-utterly 彻底地
+n.
+（支撑用的）直柱，立放构件；
+```
 
-upbeat 欢快地
+## upright
+```
 
-upliftingly 令人振奋地
+```
 
-upright 直立的
+## upward
+```
+adj.
+向上的，上升的；升高的；
 
-upside-down 颠倒的
+adv.
+向上地，上升地；
+```
 
-upward 向上
+## upwardly
+```
+['ʌpwədlɪ]
+adv.
+在上面地，向上地；
+```
 
-upwardly 向上地
+## urgently
+```
+['ɜ:dʒəntlɪ]
+adv.
+紧急地，急迫地；
+```
 
-urgently 紧急地
+## usefully
+```
+adv.
+有用地，有效地；
+```
 
-usefully 有用地
+## uselessly
+```
+['ju:sləslɪ]
+adv.
+无益地，无用地；
+```
 
-uselessly 无用地
+## usually
 
-usually 通常
 
-utterly 彻底地
+## utterly
+```
+['ʌtəli:]
+adv.
+全然，完全地；彻底地，绝对的；
+```

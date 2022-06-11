@@ -1,69 +1,204 @@
-sadly 可悲地
+## sadly
 
-safely 安全地
+## slowlyd
 
-scarcely 几乎没有
+## smoothly
 
-scarily 可怕地
+## softly
 
-searchingly 搜寻地
+## safely
 
-sedately 安详地
+## scarcely
+```
+[ˈskeəsli]
+adv.
+几乎不，简直不；刚刚，才；
+```
 
-seemingly 似乎
+## scarily
+```
+可怕地
+容易受惊地
+```
 
-seldom 很少
+## sedately
+```
+[sɪ'deɪtlɪ]
+adv.
+镇静地，安详地；
+```
 
-selfishly 自私地
+## seemingly
+```
+adv.
+看来似乎；表面上看来；貌似；
+```
 
-separately 分开地
+## seldom
+```
+[ˈseldəm]
+adv.
+很少，罕见；难得；不大；
+```
 
-seriously 严肃地shakily 摇摇晃晃地
+## selfishly
+```
+adv.
+自私地，任性地；
+```
 
-sharply 锐利地
+## separately
+```
+[ˈseprətli]
+adv.
+分别地，另行；分开，单独；分离地；
+```
 
-sheepishly 羞怯地
+## seriously
+```
+[ˈsɪəriəsli]
+adv.
+认真地；严肃地；严重地；
+```
+## shakily
+```
+['ʃeɪkɪlɪ]
+adv.
+摇晃地；发抖地；不坚定地；颤抖着
+```
 
-shrilly 尖声地
+## sharply
+```
+[ˈʃɑ:pli]
+adv.
+严厉地；明确地；锋利地；突然地
+```
 
-shyly 害羞地
+## sheepishly
+```
+['ʃi:pɪʃlɪ]
+adv.
+怯懦地，羞怯地；
+```
 
-silently 默默地
+## shrilly
+```
+['ʃrɪllɪ]
+adj.
+尖声的；光亮的，耀眼的；
 
-sleepily 困倦地
+adv.
+尖声地；耀眼地
+```
 
-slowly 慢慢地
+## shyly
+```
+[ʃaɪlɪ]
+adv.
+羞怯地，胆怯地，
+```
 
-smoothly 顺利地
+## silently
+```
+adv.
+寂静地，沉默地；
+```
 
-softly 轻轻地
+## sleepily
+```
+adv.
+想睡地，疲倦地；
+```
+## solemnly
+```
+adv.
+庄严地；严肃地；正式地；神圣地
+```
 
-solemnly 庄严地
+## solidly
+```
+[ˈsɒlɪdli]
+adv.
+坚固地；牢靠地；团结一致地；
+```
 
-solidly 坚定地
+## sometimes
+```
+adv.
+有时，间或；时而；
+```
 
-sometimes 有时
+## soon
+```
+adv.
+立刻，马上；一会儿，不久；快；
+```
 
-soon 很快
+## speedily
+```
+adv.
+快速地；迅速地；
+```
 
-speedily 迅速地
+## stealthily
+```
+adv.
+暗地里，偷偷摸摸地；
+```
 
-stealthily 悄悄地
+## sternly
+```
+adv.
+严格地；严厉地；
+```
 
-sternly 严厉地
+## strictly
+```
+adv.
+严格地；完全地；
+```
 
-strictly 严格地
+## successfully
+```
+adv.
+顺利地；成功地
+```
 
-successfully 成功地
+## suddenly
+```
+adv.
+意外地，忽然地
+```
 
-suddenly 突然
+## surprisingly
+```
+[sə'praɪzɪŋlɪ]
+adv.
+惊人地，出人意外地；
+```
 
-surprisingly 令人惊讶地
+## suspiciously
+```
+[səˈspɪʃəsli]
+adv.
+猜疑地，怀疑的；
+```
 
-suspiciously 怀疑地
+## sweetly
+```
+adv.
+舒适地；美妙悦耳地；甜蜜地；
+```
 
-sweetly 甜蜜地
+## swiftly
+```
+adv.
+迅速地，敏捷地；倏忽
+```
 
-swiftly 迅速地
-
-sympathetically 同情地
+## sympathetically
+```
+[ˌsɪmpə'θetɪklɪ]
+adv.
+悲怜地，富有同情心地；
+```

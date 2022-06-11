@@ -1,23 +1,85 @@
-vacantly 茫然地
+## vacantly
+```
+['veɪkəntlɪ]
+adv.
+神情茫然地；
+```
 
-vaguely 隐约地
+## vaguely
+```
+[ˈveɪgli]
+adv.
+含糊地；茫然地；暧昧的；
+```
 
-vainly 徒劳地
+## vainly
+```
+[ˈveɪnli]
+adv.
+徒劳地；不成功地；白费力地；
+```
 
-valiantly 勇敢地
+## valiantly
+```
+['vælɪəntlɪ]
+adv.
+勇敢地，英勇地；
+```
 
-vastly 极大地
+## vastly
+```
+[ˈvɑ:stli]
+adv.
+极大地；广大地；深远地；
+```
 
-verbally 口头上
+## verbally
+```
+[ˈvɜ:bəli]
+adv.
+言词上；口头地；照字面地；作为动词
+```
 
-very 非常
+## very
+```
+adj.
+很，非常；恰好是，正是；十足的；特有的
 
-viciously 恶毒地
+adv.
+很，非常；充分，完全
+```
 
-victoriously 胜利地
+## viciously
+```
+['vɪʃəslɪ]
+adv.
+邪恶地，敌意地；
+```
 
-violently 猛烈地
+## victoriously
+```
+[vɪk'tɔ:rɪəslɪ]
+adv.
+获胜地，胜利地；
+```
 
-vivaciously 活泼地
+## violently
+```
+[ˈvaɪələntli]
+adv.
+激烈地；暴力地；狂暴地；极度地
+```
 
-voluntarily 自愿地
+## vivaciously
+```
+[vaɪ'veʃəsli]
+adv.
+快活地；活泼地；愉快地；
+```
+
+## voluntarily
+```
+[ˈvɒləntrəli]
+adv.
+志愿地；自动地，
+```

@@ -1,11 +1,22 @@
-yawningly 哈欠连天
+## yearly
+```
+每年
+```
 
-yearly 每年
+## yearningly
+```
+['jɜ:nɪŋlɪ]
+adv. 怀念地，思慕地，同情地；渴；
+```
 
-yearningly 渴望地
+## yesterday
+```
+n. 昨天；往昔；过去；
 
-yesterday 昨天
-
-yieldingly 屈服地
-
-youthfully 年轻地
+adv. 在昨天，在昨日；近来；
+```
+## youthfully
+```
+adv.
+年轻地，无经验地；
+```

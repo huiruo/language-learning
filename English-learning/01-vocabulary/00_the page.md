@@ -16,7 +16,12 @@ vt.& vi.（使）腐烂，腐朽；
 vi. 衰败，衰退，衰落；
 n. 腐败、衰退的状态；
 ## urban
+```
 adj. 都市的；具有城市或城市生活特点的；市内；
+
+damage to both urban and rural environments
+对城乡环境的破坏
+```
 
 ## wax
 n. 蜡，蜡状物；耳垢；
@@ -102,8 +107,11 @@ n.参考；参考书；提及，涉及；证明人，介绍人
 v.引用；参照
 
 ## bible
+```
 n.圣经；有权威的书
-
+The Holy Bible says God created the world.
+《圣经》上说，上帝创造了世界。
+```
 ## complaint
 n.抱怨，控诉；委屈，怨言
 
@@ -118,10 +126,13 @@ vt.发动，触发；激起运动，鼓舞；
 adj.王室的；皇家的；庄严的；
 n.王室成员
 ## circumstance
-n.
-环境，境遇；事实，细节；典礼，仪式；
-vt.
-使处于某种特定的情况之下；
+```
+n. 环境，境遇；事实，细节；典礼，仪式；
+vt. 使处于某种特定的情况之下；
+
+The company reserves the right to cancel this agreement in certain circumstances.
+本公司保留在一定条件下取消这项协议的权利。
+```
 ## slavery
 n.
 奴隶身份；奴隶制度；苦役，奴隶般的劳动；
@@ -167,13 +178,39 @@ n.
 vt.
 公布，公告；用公报发表；
 ## ribbon 
-n.
-带；（打印机的）色带；绶带；带状物
-v.
-把…撕成条带；用缎带装饰；形成带状；
+```
+n. 带；（打印机的）色带；绶带；带状物
+v.把…撕成条带；用缎带装饰；形成带状；
+The little girl tied a blue ribbon in her hair and looks adorable.
+这个小女孩在头发上扎了条蓝丝带，看上去非常可爱。
+```
 ## attach
-vt.
-（有时不受欢迎或未受邀请而）参加；把…固定；把…归因于；（使）与…有联系
+```
+vt. （有时不受欢迎或未受邀请而）参加；把…固定；把…归因于；（使）与…有联系
 
-vi.
-从属；附着；伴随而来；联在一起(to, upon)
+vi. 从属；附着；伴随而来；联在一起(to, upon)
+
+I attach a copy of my notes for your information.
+我附上笔记一份供你参考。
+```
+
+## extent
+```
+n. 程度；长度；广大地域；扣押
+It is impossible to estimate the extent of the damage.
+损坏的程度已经无法估计了。
+
+But the true extent may never be known.
+但是监听的范围到底有多大不得而知。
+```
+
+## erect
+```
+[ɪˈrekt]
+vt. 使直立，使竖起；建立，创立；安装；[医]使勃起
+
+adj.直立的，垂直的；（头、手等）朝上举的；直竖的；[医]勃起的
+
+Police had to erect barriers to keep crowds back.
+警察得设立路障来阻截人群。
+```

@@ -1,19 +1,45 @@
-quaintly 古怪地
+## quaintly
+```
+[kweɪntlɪ]
+adv.
+古雅别致，离奇有趣地，优雅地；
+```
 
-quarrelsomely 吵吵闹闹地
+## queasily
+```
+['kwizɪli]
+adv.
+令人恶心地；
+```
 
-queasily 令人恶心地
+## queerly
+```
+[ˈkwɪəli]
+adv.
+奇妙地，奇怪地；
+```
 
-queerly 奇怪的
+## quickly
+```
+adv.
+迅速地；立即；马上；
+```
 
-questionably 可疑地
+## quietly
+```
+adv.
+平静地；静止地；轻声地；
+```
 
-questioningly 怀疑地
-
-quicker 更快
-
-quickly 快点
-
-quietly 悄悄地
-
-quirkily 古怪地quizzically 疑惑地
+## quirkily
+```
+[kwɜ:'kɪlɪ]
+adv.
+诡诈地，离奇地；
+```
+## quizzically
+```
+['kwɪzɪklɪ]
+adv.
+疑问地，戏弄地；
+```

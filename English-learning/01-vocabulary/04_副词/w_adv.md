@@ -1,25 +1,81 @@
-warmly 温暖地
+## warmly
+```
+adv.
+温暖地；亲切地；热烈地；
+```
 
-weakly 微弱地
+## weakly
+```
+微弱地
+```
 
-wearily 疲惫地
+## wearily
+```
+adv. 疲倦地；消沉地；厌倦地；
+```
 
-well 好
+## well
+```
+adv.
+好；很；好意地；高高兴兴地
 
-wetly 湿润地
+adj.
+健康的；井的；良好的；恰当的
 
-wholly 完全
+int.
+（用于表示惊讶，疑虑，接受等）；
 
-wildly 疯狂地
+n.
+泉；源泉；水井；
 
-willfully 故意地
+vi.
+（液体）涌出；流出；涌流；涌上
 
-wisely 明智地
+vt.
+涌出，喷出；
+```
 
-woefully 糟糕的是
+## wetly
+```
+adv. 潮湿地，有湿气；
+```
 
-wonderfully 很好地
+## wholly
+```
+adv.
+完全地，全部地；
+```
 
-worriedly 担心地
+## wildly
+```
+adv.
+疯狂地；粗暴地，野蛮地；
+```
 
-wrongly 错误地
+## willfully
+```
+adv.
+任性固执地；蓄意地；
+```
+
+## wisely
+```
+adv.
+聪明地，英明地；明智地；
+```
+
+## woefully
+```
+['wəʊfəlɪ]
+adv. 忧愁地，可怜地；
+```
+
+## wonderfully
+```
+adv. 精彩地；极好地；
+```
+
+## wrongly
+```
+adv. 错误地；不正确地；不恰当地；
+```

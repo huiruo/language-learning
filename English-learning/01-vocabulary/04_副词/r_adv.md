@@ -1,31 +1,104 @@
-rapidly 迅速地
+## rapidly
+```
+['ræpɪdlɪ]
+adv.
+很快地，迅速地；立即；
+```
 
-rarely 很少
+## rarely
+```
+[ˈreəli]
+adv.
+很少地；罕有地；极精彩地；珍奇地，绝佳地
+```
 
-readily 便利地
+## readily
+```
+[ˈredɪli]
+adv.
+乐意地；快捷地；轻而易举地
+```
 
-really 真的
+## really
+```
+adv.
+真，真正；实在，果真；实际上；
+```
 
-reassuringly 令人欣慰的是
+## reassuringly
+```
+[ˌri:ə'ʃʊərɪŋlɪ]
+adv.
+安慰地，鼓励地；
+```
 
-recklessly 不顾一切地
+## recklessly
+```
+['rekləslɪ]
+adv.
+不在乎地，鲁莽地，不顾一切地；
+```
 
-regularly 有规律地
+## regularly
+```
+adv.
+有规律地，按时，照例，按部就班地；
+```
 
-reluctantly 不情愿地
+## reluctantly
+```
+[rɪ'lʌktəntlɪ]
+adv.
+不情愿地，勉强地；
+```
 
-repeatedly 重复地
+## repeatedly
+```
+adv.
+反复地，重复地；
+```
 
-reproachfully 责备地
+## reproachfully
+```
+[rɪ'prəʊtʃfəlɪ]
+adv.
+责备地
+```
 
-restfully 宁静地
+## restfully
+```
+adv.
+平安地；
+```
 
-righteously 正直地
+## righteously
+```
+['raɪtʃəslɪ]
+adv.
+正当地
+```
 
-rightfully 正当地
+## rightfully
+```
+adv.
+正直地，正当地；
+```
 
-rigidly 严格地
+## rigidly
+```
+['rɪdʒɪdlɪ]
+adv.
+僵硬地；严厉地；严格地；
+```
 
-roughly 粗略地
+## roughly
+```
+adv.
+粗略地；大体上；大致上；
+```
 
-rudely 粗鲁地
+## rudely
+```
+adv.
+粗鲁地；不礼貌地；猛烈地；
+```

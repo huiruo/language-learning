@@ -18,6 +18,9 @@ n.批评，批判；鉴定，审定
 ## correspondence
 n.一致，符合；对应；通信，信件；
 
+As her private secretary, he has access to all her correspondence.
+他是她的私人秘书, 能接触到她所有的信件.
+
 ## chin
 n.（尤指人的）颏，下巴；聊天；引体向上动作；
 v. 用下巴夹住；聊天；作引体向上动作；
