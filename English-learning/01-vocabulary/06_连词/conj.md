@@ -10,4 +10,9 @@ Whereas we want a flat, they would rather live in a house.
 ```
 
 ## lest
+```
 conj.唯恐；以免；惟恐；生怕
+They spoke in whispers lest they should be heard.
+
+他们低声耳语唯恐被人听见。
+```
