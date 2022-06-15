@@ -273,3 +273,55 @@ She loves wearing a woollen scarf in winter.
 
 wool 羊毛
 ```
+## farther
+```
+adv. 较远
+adj. 较远的
+
+It was disappointing that the researchers hadn't got any farther with the study.
+
+令人失望的是，研究人员在这项研究上没有取得任何进展。
+We can't go any farther without a rest.
+
+不休息我们就走不动了。
+```
+## seal
+```
+v. 密封, 封住; 盖印; 封锁
+n. 印章; 封条; 海豹; 标志
+
+Make sure you've signed the cheque before sealing the envelope.
+一定要在支票上签了名再封信封。
+```
+## boundary
+```
+/'baʊndri/
+n. 分界线，边界
+```
+## remark
+```
+n. 评论；注意；言辞
+v. 评论
+
+He made a number of rude remarks about the food.
+
+
+关于这里的食物他说了许多无礼的评论。
+mark 标记
+```
+
+## poetry
+```
+/'pəʊətri/
+n. 诗歌, 诗意, 诗集, 诗作
+
+His affections are found among the lines of the poetry.
+他的感情体现在这首诗的字里行间。
+```
+## identical
+```
+adj. 完全相同的；同一的
+
+This is the identical hotel we stayed at last year.
+这就是我们去年住过的旅馆。
+```
