@@ -123,17 +123,6 @@ adv.
 幸运地；
 ```
 
-## frankly
-```
-Fortunately he survived the traffic accident.
-他很幸运地在车祸之后还能活着。
-Fortunately, the storm only did minimal damage.
-很幸运,暴风雨造成的破坏不大。
-
-Fortunately the pilot bailed out before the plane crashed.
-飞机坠毁之前，驾驶员幸运地跳伞了。
-```
-
 ## frantically
 ```
 ['fræntɪklɪ]

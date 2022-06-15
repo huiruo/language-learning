@@ -20,21 +20,6 @@ adv. 优美地，高雅地；
 adv. 精力充沛地，积极地；
 ```
 
-## enormously
-```
-adv.
-巨大地，庞大地；
-
-I'm enormously grateful for your help.
-我万分感谢你的帮助。
-
-The university president is enormously popular.
-这位大学校长极受大家欢迎。
-
-His English improved enormously because of his association with British people.
-因和英国人联系频繁，他的英语突飞猛进。
-```
-
 ## enthusiastically
 ```
 adv. 热心地，满腔热情地；起劲；
@@ -126,20 +111,4 @@ Corell jumped to his feet excitedly.
 科雷尔激动地跳了起来。
 The dog wagged its tail excitedly.
 那条狗兴奋地直摇尾巴。
-```
-
-## extremely
-```
-[ɪkˈstri:mli]
-adv. 极端地；非常，
-
-I'm extremely sorry.
-我非常非常抱歉。
-He knows the area extremely well.
-他对这个领域了解的非常透彻。
-He is an extremely frank person.
-他是个极其老实的人。
-
-This task is extremely difficult.
-这项任务极其困难。
 ```

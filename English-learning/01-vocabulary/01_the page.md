@@ -20,9 +20,6 @@ vi.发强光；
 
 n.强光；怒视；瞪眼；炫耀
 
-## exceedingly
-adv.
-非常，极其，特别，十分；极大地；过分地；极度地，极端
 ## childish
 adj. 幼稚的；孩子气的；不复杂的；
 
@@ -143,22 +140,7 @@ Negotiators are looking for a peaceful settlement to the dispute.
 
 谈判双方正寻求和平解决争端的办法
 ```
-## somehow
-```
-adv. 以某种方式（或方法）, 由于某种未知的原因, 不知为什么, 不知怎么地
 
-It won't be easy, but they'll find a way to resolve the budget issue somehow.
-
-虽然并不容易，但他们总会找到解决预算问题的方法的。
-```
-## complicate
-```
-v. 使难以理解；使复杂化
-
-I do not wish to complicate the task further.
-
-我不想使这项任务更复杂。
-```
 ## thrill
 ```
 v. 使兴奋, 使激动；使颤动；震颤；感到非常兴奋；感到紧张
@@ -198,12 +180,6 @@ She likes to wear gold jewelry.
 
 cheat: 普通用词，指用蒙蔽他人的手段取得所需之物，尤多指在赢利的买卖中欺骗人。
 deceive: 最普通用词，指用虚假外表使人信以为真，或蓄意歪曲事实，或造成错误印象使人上当受骗。
-```
-## quilt
-```
-n. 被子；被褥
-
-v. 绗(被), 绗缝(衣服), 用垫料填塞后缝拢, 将(钞票等)缝进衣服里
 ```
 ## exactly
 ```
@@ -246,14 +222,7 @@ We have no certainty of success.
 
 我们没有成功的把握。
 ```
-## lavatory
-```
-n. 厕所, 卫生间, 洗手间, 盥洗室
 
-There's a bathroom and a lavatory upstairs.
-
-楼上有浴室和卫生间。
-```
 ## grace
 ```
 n. 优雅，优美；风度，体面；恩典；宽限期
@@ -263,15 +232,7 @@ She acts with the natural grace of a dancer.
 
 她的动作中有舞蹈演员自然而然的优雅。
 ```
-## gigantic
-```
-/dʒaɪ'ɡæntɪk/
-adj. 巨大的；庞大的
 
-The earth may be thought of as a gigantic magnet.
-
-整个地球可以想像为一块硕大无比的磁石.
-```
 ## dorm
 ```
 n. 〈美口〉宿舍
@@ -317,11 +278,4 @@ adv. 向东
 A powerful storm is moving eastward.
 威力强大的暴风雨正往东移动。
 ```
-## combat
-```
-n. 搏斗；打仗；战斗
-v. 防止；减轻；战斗，与…搏斗
 
-The soldiers were preparing for combat.
-士兵们在为战斗做准备。
-```

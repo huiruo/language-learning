@@ -26,13 +26,6 @@ adv.
 勇敢地，英勇地；
 ```
 
-## vastly
-```
-[ˈvɑ:stli]
-adv.
-极大地；广大地；深远地；
-```
-
 ## verbally
 ```
 [ˈvɜ:bəli]
@@ -66,20 +59,17 @@ adv.
 ## violently
 ```
 [ˈvaɪələntli]
-adv.
-激烈地；暴力地；狂暴地；极度地
+adv.  激烈地；暴力地；狂暴地；极度地
 ```
 
 ## vivaciously
 ```
 [vaɪ'veʃəsli]
-adv.
-快活地；活泼地；愉快地；
+adv. 快活地；活泼地；愉快地；
 ```
 
 ## voluntarily
 ```
 [ˈvɒləntrəli]
-adv.
-志愿地；自动地，
+adv.  志愿地；自动地，
 ```

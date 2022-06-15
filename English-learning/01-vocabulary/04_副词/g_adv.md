@@ -43,29 +43,6 @@ The land dips gently to the south.
 地面缓缓向南倾斜。
 ```
 
-## gladly
-```
-[ˈglædli]
-adv.
-高兴地，乐意地，欣然
-
-She gladly accepted the assignment.
-她高兴地接下任务。
-
-She gets angry very easily and is not one to suffer fools gladly.
-她很易发火，容不得人傻乎乎地瞎说。
-I'll gladly come and help you.
-我非常乐意来帮助你。
-```
-
-## gleefully
-```
-['ɡli:fəlɪ]
-adv.
-高兴地
-When I returned, she gleefully nodded at the screen.
-等我回来，她正愉快地对着屏幕点头。
-```
 
 ## gracefully
 ```
@@ -75,44 +52,3 @@ He dived gracefully into the water.
 他动作优美地跳入水中。
 ```
 
-## gratefully
-```
-adv.
-感激地；感谢地；
-
-He accepted the money gratefully.
-他感激地收下了钱。
-She dropped gratefully into the chair.
-她如释重负地在椅子上坐了下来。
-```
-
-## greatly
-```
-[ˈgreɪtli]
-adv.
-大大地，非常；
-
-His writing has improved greatly in this semester.
-这学期他的写作有了很大进步。
-Her kindness to my children greatly endeared her to me.
-她对我的孩子很好，所以我很喜欢她。
-I am greatly indebted to you for your kindness.
-我非常感激您的恩惠。
-
-We want to cooperate with you greatly.
-我们非常愿意与你们合作。
-Her insolence greatly displeased the judge.
-她傲慢无礼，大大地触怒了法官。
-```
-
-## greedily
-```
-['gri:dɪlɪ]
-adv.
-贪心地，贪婪地；贪吃地；
-
-The hungry man greedily grasped the bread.
-那饥饿的人贪婪地抓着面包不放。
-His heirs were greedily waiting for him to kick the bucket.
-他的那些继承人正贪婪地等他死。
-```

@@ -15,11 +15,3 @@ vt.用仪器装备；为演奏谱曲；向…提交文书
 ## instant
 n.瞬间，顷刻；此刻；当月；速食食品，即溶饮料
 adj.立即的；迫切的；正在考虑的，目前的
-
-## illustration
-```
-n.说明；例证；图解；插图；
-
-The color illustrations in that book can draw children's attention.
-书中的这些彩色插图能够吸引孩子们的注意力。
-```

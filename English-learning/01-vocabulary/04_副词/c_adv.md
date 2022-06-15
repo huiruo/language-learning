@@ -55,16 +55,6 @@ He will certainly come.
 他一定会来的。
 ```
 
-## cheerfully
-```
-['tʃɪəfəlɪ]
-adv.
-欢乐地；愉快地；
-
-He cheerfully went off to school.
-他高高兴兴地上学去了。
-```
-
 ## clearly
 ```
 adv.
@@ -163,15 +153,6 @@ adv.
 横地；相反地；故意为难地；
 She looked at her husband crossly.
 她生气地看着自己的丈夫。
-```
-
-## cruelly
-```
-['kru:əlɪ]
-adv.
-残酷地；残暴地；极度地；
-They cruelly massacred all the people in the village.
-他们残酷地屠杀了村里所有的人。
 ```
 
 ## curiously

@@ -40,21 +40,3 @@ v. 庆祝; 祝贺; 举行宗教庆典; 歌颂
 How do people celebrate New Year in your country?
 你们国家的人怎样庆贺新年？
 ```
-## challenge
-n. 挑战; 质疑; 盘问; 怀疑 vt. 质疑; 向…挑战 vi. 提出挑战，
-- ~ (to sth)质询；质疑；提出异议
-```
-It was a direct challenge to the president's authority.
-这是对主席权威的直接质疑。
-```
-- 对…怀疑（或质疑）；拒绝接受
-```
-The story was completely untrue and was successfully challenged in court.
-此案情纯属捏造，已在法庭上被揭穿。
-```
-- ~ sb (to sth)
-向（某人）挑战；
-```
-he opposition leader challenged the prime minister to call an election.
-反对党领袖要求首相宣布进行大选。
-```

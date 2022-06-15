@@ -273,24 +273,6 @@ Address your application to the Personnel Manager.
 把你的申请信寄给人事经理。
 ```
 
-## adopt
-vt. 收养; 采用，采取，采纳; 正式接受，接受; 批准
-- 收养；领养
-```
-She was forced to have her baby adopted.
-她被迫把婴儿给人收养。
-```
-- 正式通过，表决采纳（建议、政策等）
-```
-The council is expected to adopt the new policy at its next meeting.
-委员会有望在下次会议上正式通过这项新政策。
-```
-- 选定，选举（某人为候选人或代表）
-```
-She was adopted as parliamentary candidate for Wood Green.
-她被推举为伍德格林选区的议员候选人。
-```
-
 ## allocate
 vt.  分配;拨…(给);划…(归)
 - ~ sth (for sth) | ~ sth (to sb/sth) | ~ (sb/sth) sth
@@ -324,15 +306,7 @@ The job involves gathering and analysing data.
 He tried to analyse his feelings.
 他试图分析自己的感情。
 ```
-## appreciate
-vt. 欣赏; 感激; 领会; 鉴别 vi. （使）增值，涨价
-```
-You can't really appreciate foreign literature in translation.
-看翻译作品不能真正欣赏到外国文学原著的美妙之处。
 
-His talents are not fully appreciated in that company.
-他的才干在那家公司未受到充分赏识。
-```
 ## attain
 vt. 得到;(通常经过努力)获得;达到(某年龄、水平、状况)
 ```

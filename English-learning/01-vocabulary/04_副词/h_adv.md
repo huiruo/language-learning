@@ -35,20 +35,6 @@ Children can grow up healthily when they have a happy family.
 孩子们需要幸福的家庭环境才能健康地成长。
 ```
 
-## heavily
-```
-adv.
-在很大程度上；沉重地；大量地；
-
-The truck was heavily loaded.
-这辆卡车装载很重。
-
-he crime lies heavily on his conscience.
-那罪行沉重地压在他心上。
-
-It was snowing heavily.
-天正在下大雪。
-```
 ## helpfully
 ```
 adv.
@@ -63,16 +49,6 @@ She looked about her helplessly for a means of escape.
 她无助地四下观望，寻找脱身之机。
 ```
 
-## highly
-```
-adv.
-高度地；极，非常；
-
-These procedures are highly irregular.
-这些程序是很不合乎规则的。
-His style is offbeat but highly creative.
-他的风格很不寻常但非常有创造力。
-```
 ## honestly
 ```
 [ˈɒnɪstli]

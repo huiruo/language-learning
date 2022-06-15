@@ -1,15 +1,8 @@
-## representative
-n.代表；继任者；议员；类似物
-adj.典型的；有代表性的；代议制的
-
 # independence
 n.独立；自主；
 
 ## dessert
 n.甜点，甜品；
-
-## numerous
-adj.许多的；数量庞大的；
 
 ## decay
 vt.& vi.（使）腐烂，腐朽；
@@ -28,9 +21,6 @@ n. 蜡，蜡状物；耳垢；
 vt. 给…打蜡，给…上蜡；渐渐变大；变为；（月亮）渐圆，渐盈
 vi. 给…上蜡，给…涂蜡；把…灌制唱片；
 
-## compliment
-n.恭维；敬意；道贺，贺词；致意
-vt.向…道贺；称赞；向…致意；
 ## competent
 adj.有能力的；能胜任的，称职的；
 ## palm
@@ -44,7 +34,10 @@ adj.典型的；特有的或特别的；代表性的；
 ## helmet
 n.头盔；安全帽；
 ## tomb
+```
 坟墓；墓穴；墓碑；死亡；
+When archaeologists opened up the tomb they found breathtaking treasure.
+```
 
 ## feature
 n. 特征，特点；容貌，面貌；（期刊的）特辑；故事片
@@ -52,7 +45,15 @@ vt. 使有特色；描写…的特征；以…为号召物；
 vi. 起主要作用；作重要角色；
 
 ## proficiency
+```
 n.熟练，精通，娴熟
+His proficiency as a surgeon is well known.
+
+他作为一名外科医生的水平是有名的.
+
+proficiency at/with/in sth.擅长sth.
+proficient adj.精通的.
+```
 
 ## semiconductor
 n.<物>半导体；
@@ -135,21 +136,6 @@ vi.发出火星，发出闪光；热烈赞同；正常运转；
 
 vt.发动，触发；激起运动，鼓舞；
 
-## royal
-adj.王室的；皇家的；庄严的；
-n.王室成员
-## circumstance
-```
-n. 环境，境遇；事实，细节；典礼，仪式；
-vt. 使处于某种特定的情况之下；
-
-The company reserves the right to cancel this agreement in certain circumstances.
-本公司保留在一定条件下取消这项协议的权利。
-```
-## slavery
-n.
-奴隶身份；奴隶制度；苦役，奴隶般的劳动；
-
 ##  faint
 adj.
 微弱的，模糊的；软弱的；无勇气的；将昏倒似的
@@ -174,22 +160,11 @@ int. 再见，再会；一路平安；
 adj. 告别的，送行的；
 
 welfare n.福利
-## enormous
-adj.
-巨大的；庞大的；极恶的；凶暴的
-## somehow
-adv.
-以某种方式，用某种方法；不知怎么地，不知道怎样，不晓得什么缘故；设法，想办法，想个方法
 
 ## rare
 adj.
 罕见的，特殊的；半熟的；半生的；稀薄的，经过稀化的；
-## bulletin
-n.
-公告，公报；新闻快报；小报；期刊
 
-vt.
-公布，公告；用公报发表；
 ## ribbon 
 ```
 n. 带；（打印机的）色带；绶带；带状物
@@ -235,13 +210,6 @@ They fought a long battle against prejudice and ignorance.
 
 他们为反对偏见与无知而战。
 ```
-## hence
-```
-adv. 因此，由此；从此，从现在起
-
-The cost of transport is a major expense. Hence factory location is an important consideration.
-运输成本是一大笔支出，因此工厂选址是重要的考虑因素。
-```
 ## negotiate
 ```
 v. 谈判，磋商；商定；达成（协议）；通过，越过（险要路段）
@@ -285,14 +253,7 @@ We can't go any farther without a rest.
 
 不休息我们就走不动了。
 ```
-## seal
-```
-v. 密封, 封住; 盖印; 封锁
-n. 印章; 封条; 海豹; 标志
 
-Make sure you've signed the cheque before sealing the envelope.
-一定要在支票上签了名再封信封。
-```
 ## boundary
 ```
 /'baʊndri/
@@ -324,4 +285,61 @@ adj. 完全相同的；同一的
 
 This is the identical hotel we stayed at last year.
 这就是我们去年住过的旅馆。
+```
+
+## intention
+```
+n. 意图，意向，目的
+
+I have no intention of going to the wedding.
+我无意去参加婚礼。
+```
+
+## thrust
+```
+v. 猛推, 刺, 塞, 冲, 挤
+n. 刺, 插, 重点, 猛推
+
+He thrust the money into his father's hand.
+他把钱塞到他父亲的手里。
+
+trust 
+n. 信任; 信托; 照管; 受托基金机构
+vt.& vi. 相信， 信任 vt. 相信; 对…有信
+```
+
+## obvious
+```
+adj. 明显的，显然的；易理解的；公认的；平淡无奇的
+
+It was obvious to everyone that the child had been badly treated.
+人人一看便知，那个孩子受过虐待。
+```
+
+## moral
+```
+/'mɒrəl/
+adj. 道德（上）的，有道德的
+n. 品行，道德；寓意
+
+a moral issue/dilemma/question
+
+道德方面的议题╱困境╱问题
+```
+
+## renew
+```
+v. 更新, 更换, 重新开始, 中止后继续
+My visa needed renewing for another six months to continue working here.
+
+我需要将签证延长六个月，以继续在这儿工作。
+```
+
+## dim
+```
+adj. 微暗的, 暗淡的, 悲观的, 渺茫的；迟钝的；愚笨的
+v. 使…黯然失色, (使)暗淡, (使)模糊, (使)变朦胧
+
+I couldn't see what was on the wall clearly because the light was very dim.
+光线太暗，我看不清楚墙上有什么。
 ```

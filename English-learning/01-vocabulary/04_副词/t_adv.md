@@ -11,29 +11,11 @@ adv.
 绷紧地，紧张地；
 ```
 
-## terribly
-```
-[ˈterəbli]
-adv.
-很；非常；极；
-```
-
-## thankfully
-```
-adv.
-（用以表示高兴或宽慰）幸亏；高兴地，感激地；
-```
-
 ## thoroughly
 ```
 ['θɔ:tfəlɪ]
 adv.
 沉思地；深虑地；亲切地；体贴地
-```
-
-## thoughtfully
-```
-
 ```
 
 ## tightly
@@ -55,13 +37,6 @@ n.
 ```
 adv.
 也；太；很；非常
-```
-
-## tremendously
-```
-[trə'mendəslɪ]
-adv.
-极大地；极端地；极其；非常
 ```
 
 ## triumphantly
