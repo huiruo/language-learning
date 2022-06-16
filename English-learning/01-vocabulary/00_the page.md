@@ -254,11 +254,6 @@ We can't go any farther without a rest.
 不休息我们就走不动了。
 ```
 
-## boundary
-```
-/'baʊndri/
-n. 分界线，边界
-```
 ## remark
 ```
 n. 评论；注意；言辞

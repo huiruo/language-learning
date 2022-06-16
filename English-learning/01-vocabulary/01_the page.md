@@ -83,14 +83,7 @@ A solemn expression was on her face at the funeral.
 
 在葬礼上，她的脸上的神情很肃穆。
 ```
-## reluctant
-```
-adj. 不情愿的，勉强的
 
-She was reluctant to admit her mistake when questioned by her parents.
-
-面对父母的质问，她不愿承认自己犯了错。
-```
 ## inn
 ```
 n. 客栈, （通常指乡村的，常可夜宿的）小酒店
@@ -223,15 +216,7 @@ We have no certainty of success.
 我们没有成功的把握。
 ```
 
-## grace
-```
-n. 优雅，优美；风度，体面；恩典；宽限期
-
-v. 为…增色，美化，使优美；装饰
-She acts with the natural grace of a dancer.
-
-她的动作中有舞蹈演员自然而然的优雅。
-```
+``
 
 ## dorm
 ```
@@ -270,12 +255,26 @@ How charming this street is!
 Her colorful character makes her very charming.
 她生动活泼的性格使她富有魅力。
 ```
-## eastward
+## phase
 ```
-adj. 向东的
-adv. 向东
+/feɪz/
+n. 阶段, 时期; 相; 位相
+v. 使定相, 使同步; 分阶段实行
 
-A powerful storm is moving eastward.
-威力强大的暴风雨正往东移动。
+Our country is entering a new phase of its development.
+我们的国家进入了发展的新阶段。
 ```
+## theory
+```
+n. 理论, 原理, 学说, 原则
+the theory and practice of language teaching
 
+语言教学理论与实践
+```
+## accommodation
+```
+n. 住处；住宿，膳宿；和解，调解，通融；适应，调节
+
+Hotel accommodation is included in the price of your holiday.
+你旅馆住宿包括在了度假价款内。
+```

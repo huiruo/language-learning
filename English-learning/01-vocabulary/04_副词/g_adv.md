@@ -44,11 +44,4 @@ The land dips gently to the south.
 ```
 
 
-## gracefully
-```
-adv.
-优美地；优雅地；雅致地；
-He dived gracefully into the water.
-他动作优美地跳入水中。
-```
 
