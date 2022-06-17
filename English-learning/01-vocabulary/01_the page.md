@@ -280,3 +280,62 @@ n. 设备，设施； 附加服务，附加功能；天赋；娴熟，灵巧
 The recreational facilities are now available to the public.
 娱乐设备现在已经可以供公众使用。
 ```
+## apparent
+```
+If she had inner doubts, it was not apparent to anyone else.
+
+她若心中生疑亦不形之于色。
+
+appearance  外貌，外观
+```
+## understanding
+```
+n. 理解, 了解, 谅解, 领悟
+
+adj. 善解人意的, 富有同情心的, 体谅人的
+
+They have to have a basic understanding of computers in order to find a job.
+
+要找到工作，他们必须具备对电脑的基本了解。
+```
+## compose
+```
+v. 组成；写作；作曲；使镇静
+
+He picked up his guitar and began to compose a song.
+
+他拿起他的吉他，开始写歌
+
+composition [kɔmpə'ziʃən]
+   
+n. 作文,著作,组织,合成物，成份
+```
+## charm
+```
+n. 魔力；魅力，吸引力；护身符；小饰物
+
+v. 吸引，使着迷
+
+Every team member admires the leader of great charm.
+
+团队里的每位成员都钦佩这位富有魅力的领导者
+```
+## counsel
+```
+/'kaʊnsl/
+n. 劝告，忠告，建议；法律顾问；律师
+
+v. 提供专业咨询；建议，劝告
+
+Counsel for the defense submitted that his client was clearly innocent.
+
+被告的律师辩称其委托人显然是无辜的
+```
+## Easter
+```
+n. 【基督】复活节, 复活节假期
+
+the Easter holidays/vacation
+
+复活节假期
+```
