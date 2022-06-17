@@ -174,14 +174,7 @@ She likes to wear gold jewelry.
 cheat: 普通用词，指用蒙蔽他人的手段取得所需之物，尤多指在赢利的买卖中欺骗人。
 deceive: 最普通用词，指用虚假外表使人信以为真，或蓄意歪曲事实，或造成错误印象使人上当受骗。
 ```
-## exactly
-```
-adv. 确切地, 准确地, 精确地; 恰好地; 究竟, 到底; (答语) 完全正确
 
-"Do exactly as I tell you!" the manager shouted.
-
-“严格照我说的做!”经理喊道。
-```
 ## negotiation
 ```
 /nɪˌɡəʊʃi'eɪʃn/
@@ -277,4 +270,13 @@ n. 住处；住宿，膳宿；和解，调解，通融；适应，调节
 
 Hotel accommodation is included in the price of your holiday.
 你旅馆住宿包括在了度假价款内。
+```
+
+
+## facility
+```
+n. 设备，设施； 附加服务，附加功能；天赋；娴熟，灵巧
+
+The recreational facilities are now available to the public.
+娱乐设备现在已经可以供公众使用。
 ```

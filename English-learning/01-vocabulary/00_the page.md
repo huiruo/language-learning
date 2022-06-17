@@ -31,8 +31,7 @@ v.
 n.企（事）业单位；事业，计划；事业心，进取心；
 ## typical
 adj.典型的；特有的或特别的；代表性的；
-## helmet
-n.头盔；安全帽；
+
 ## tomb
 ```
 坟墓；墓穴；墓碑；死亡；
@@ -227,19 +226,6 @@ Many great Greek philosophers contributed to modern Western thought.
 许多伟大的希腊哲学家促成了现代西方思想的形成。
 
 philosophy n.哲学, 哲理
-```
-## woollen
-```
-adj. 毛纺的, 羊毛的, 毛料的, 毛线的
-
-n. 毛线, 毛织品, 呢绒, 呢绒衣服
-
-adj. 羊毛的；羊毛制的
-She loves wearing a woollen scarf in winter.
-
-她喜欢在冬天围羊毛围巾
-
-wool 羊毛
 ```
 ## farther
 ```

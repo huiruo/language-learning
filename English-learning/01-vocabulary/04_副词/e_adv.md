@@ -89,19 +89,6 @@ Eventually the fire was under control.
 火势终于被控制住了。
 ```
 
-## exactly
-```
-adv. 精确地；确切地；完全地
-
-The train arrived at exactly 8 o'clock.
-火车八点钟准时到达。
-
-I hold exactly the same idea as you.
-我的想法同您的完全相同。
-You have to do exactly as he said.
-你必须严格按照他说的去做。
-```
-
 ## excitedly
 ```
 [ɪk'saɪtɪdlɪ]
