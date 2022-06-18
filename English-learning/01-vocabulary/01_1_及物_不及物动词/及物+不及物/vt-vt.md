@@ -95,15 +95,6 @@ Write your name here.
 Chester couldn’t read or write.
 ```
 
-## grip 
-紧握，抓牢；握力；掌握，理解；能力，胜任
-
-vt.
-握紧，抓牢；吸引住：吸引…的兴趣或注意力；引起；
-
-vi.
-抓牢，紧握：保持紧握；
-
 ## vary
 ˈveəri
 vi. 变化；不同，偏离；[生]变异；

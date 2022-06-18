@@ -55,8 +55,6 @@ n.电路；巡回（赛）；赛车道；环行（路线）；
 n.委员会；（郡、镇等）政务会；市政（或地方管理）服务机构
 ## notion
 n.概念，观念；意见，见解；奇想；打算
-## satire
-n.讽刺；讽刺文学；讽刺作品
 
 ## odds
 ```
@@ -146,9 +144,6 @@ adj. 告别的，送行的；
 
 welfare n.福利
 
-## rare
-adj.
-罕见的，特殊的；半熟的；半生的；稀薄的，经过稀化的；
 
 ## attach
 ```
@@ -205,22 +200,6 @@ He made a number of rude remarks about the food.
 mark 标记
 ```
 
-## poetry
-```
-/'pəʊətri/
-n. 诗歌, 诗意, 诗集, 诗作
-
-His affections are found among the lines of the poetry.
-他的感情体现在这首诗的字里行间。
-```
-## identical
-```
-adj. 完全相同的；同一的
-
-This is the identical hotel we stayed at last year.
-这就是我们去年住过的旅馆。
-```
-
 ## thrust
 ```
 v. 猛推, 刺, 塞, 冲, 挤
@@ -234,32 +213,12 @@ n. 信任; 信托; 照管; 受托基金机构
 vt.& vi. 相信， 信任 vt. 相信; 对…有信
 ```
 
-## moral
-```
-/'mɒrəl/
-adj. 道德（上）的，有道德的
-n. 品行，道德；寓意
-
-a moral issue/dilemma/question
-
-道德方面的议题╱困境╱问题
-```
-
 ## renew
 ```
 v. 更新, 更换, 重新开始, 中止后继续
 My visa needed renewing for another six months to continue working here.
 
 我需要将签证延长六个月，以继续在这儿工作。
-```
-
-## dim
-```
-adj. 微暗的, 暗淡的, 悲观的, 渺茫的；迟钝的；愚笨的
-v. 使…黯然失色, (使)暗淡, (使)模糊, (使)变朦胧
-
-I couldn't see what was on the wall clearly because the light was very dim.
-光线太暗，我看不清楚墙上有什么。
 ```
 
 ## lump
@@ -286,15 +245,6 @@ keep pace with 保持一致
 She works so fast that I can't keep pace with her.
 
 她工作得很快，我跟不上她的速度。
-```
-
-## appendix
-```
-n. 附录；阑尾
-
-This book has two appendixes.
-
-这本书有两个附录。
 ```
 
 ## guarantee
@@ -324,4 +274,12 @@ Our first priority is to improve standards.
 I don't feel I've accomplished very much today.
 
 我觉得我今天没干成多少事。
+```
+
+## performance
+```
+n. 性能, 表现, 业绩, 表演
+They gave an excellent performance of classical music in the theater.
+
+他们在剧场呈现了一场精彩绝伦的古典音乐演出。
 ```

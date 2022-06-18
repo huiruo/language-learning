@@ -6,18 +6,6 @@ Beijing is flexing its military power in response to growing U.S. support for th
 ## fright
 n 恐怖；惊吓；可怕的东西，难看的人；
 
-## fable
-n. 寓言，童话；传说；无稽之谈
-v. 讲故事，编寓言；虚构
-
-## folk
-```
-n.民族；人们；〈口〉家属，亲戚；民间音乐
-adj. 民间的；普通平民的；流传民间的；普通百姓的
-
-I'd like a job working with old folk or kids.
-我喜欢与老人或小孩打交道的工作。
-```
 
 ## session
 ```
@@ -26,24 +14,6 @@ n. （议会的）会议；（法庭的）开庭； 会期，学期； （进行
 An emergency session was held to cope with this sudden attack.
 
 将召开一场紧急的会议应对这一突然的袭击。
-```
-## forth
-```
-adv. 向前；以后；往外；离去；自……以后
-prep. 来自
-
-He was very upset and paced back and forth.
-他非常沮丧，来回踱着步。
-
-The fourth 第四   一字母之差
-```
-## protest
-```
-v. 反对，抗议
-n. 抗议，反对
-
-The majority protested against the decision.
-大多数人反对这项决定
 ```
 
 ## indicate
