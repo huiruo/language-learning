@@ -1,16 +1,3 @@
-## tenderly
-```
-adv.
-温和地；柔和地；体贴地；
-```
-
-## tensely
-```
-[tenslɪ]
-adv.
-绷紧地，紧张地；
-```
-
 ## thoroughly
 ```
 ['θɔ:tfəlɪ]

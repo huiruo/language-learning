@@ -21,14 +21,6 @@ n. 蜡，蜡状物；耳垢；
 vt. 给…打蜡，给…上蜡；渐渐变大；变为；（月亮）渐圆，渐盈
 vi. 给…上蜡，给…涂蜡；把…灌制唱片；
 
-## competent
-adj.有能力的；能胜任的，称职的；
-## palm
-n.手掌；手心；棕榈树
-v.
-将…藏于掌中；
-## enterprise
-n.企（事）业单位；事业，计划；事业心，进取心；
 ## typical
 adj.典型的；特有的或特别的；代表性的；
 
@@ -113,12 +105,6 @@ vt.弄湿；
 n.参考；参考书；提及，涉及；证明人，介绍人
 v.引用；参照
 
-## bible
-```
-n.圣经；有权威的书
-The Holy Bible says God created the world.
-《圣经》上说，上帝创造了世界。
-```
 ## complaint
 ```
 n.抱怨，控诉；委屈，怨言
@@ -164,13 +150,6 @@ welfare n.福利
 adj.
 罕见的，特殊的；半熟的；半生的；稀薄的，经过稀化的；
 
-## ribbon 
-```
-n. 带；（打印机的）色带；绶带；带状物
-v.把…撕成条带；用缎带装饰；形成带状；
-The little girl tied a blue ribbon in her hair and looks adorable.
-这个小女孩在头发上扎了条蓝丝带，看上去非常可爱。
-```
 ## attach
 ```
 vt. （有时不受欢迎或未受邀请而）参加；把…固定；把…归因于；（使）与…有联系
@@ -181,15 +160,6 @@ I attach a copy of my notes for your information.
 我附上笔记一份供你参考。
 ```
 
-## extent
-```
-n. 程度；长度；广大地域；扣押
-It is impossible to estimate the extent of the damage.
-损坏的程度已经无法估计了。
-
-But the true extent may never be known.
-但是监听的范围到底有多大不得而知。
-```
 
 ## erect
 ```
@@ -209,24 +179,7 @@ They fought a long battle against prejudice and ignorance.
 
 他们为反对偏见与无知而战。
 ```
-## negotiate
-```
-v. 谈判，磋商；商定；达成（协议）；通过，越过（险要路段）
 
-The government will not negotiate with terrorists.
-
-政府不会和恐怖分子谈判。
-```
-## philosopher
-```
-/fə'lɒsəfə(r)/
-n. 哲学家, 深思的人, 善于思考的人
-Many great Greek philosophers contributed to modern Western thought.
-
-许多伟大的希腊哲学家促成了现代西方思想的形成。
-
-philosophy n.哲学, 哲理
-```
 ## farther
 ```
 adv. 较远
@@ -268,14 +221,6 @@ This is the identical hotel we stayed at last year.
 这就是我们去年住过的旅馆。
 ```
 
-## intention
-```
-n. 意图，意向，目的
-
-I have no intention of going to the wedding.
-我无意去参加婚礼。
-```
-
 ## thrust
 ```
 v. 猛推, 刺, 塞, 冲, 挤
@@ -287,14 +232,6 @@ He thrust the money into his father's hand.
 trust 
 n. 信任; 信托; 照管; 受托基金机构
 vt.& vi. 相信， 信任 vt. 相信; 对…有信
-```
-
-## obvious
-```
-adj. 明显的，显然的；易理解的；公认的；平淡无奇的
-
-It was obvious to everyone that the child had been badly treated.
-人人一看便知，那个孩子受过虐待。
 ```
 
 ## moral
@@ -323,4 +260,68 @@ v. 使…黯然失色, (使)暗淡, (使)模糊, (使)变朦胧
 
 I couldn't see what was on the wall clearly because the light was very dim.
 光线太暗，我看不清楚墙上有什么。
+```
+
+## lump
+```
+n. 肿块；（通常为无定形的）块；隆起；笨重的人
+
+v. 把…归并一起；综合考虑；容忍; 忍耐
+
+v. 结块
+
+This sauce has lumps in it.
+这调味汁里有结块。
+```
+
+
+## pace
+```
+/peɪs/
+n. （移动的）步速；速度，节奏；一步，一步之距
+
+v. 为…定速度；来回踱步
+keep pace with 保持一致
+
+She works so fast that I can't keep pace with her.
+
+她工作得很快，我跟不上她的速度。
+```
+
+## appendix
+```
+n. 附录；阑尾
+
+This book has two appendixes.
+
+这本书有两个附录。
+```
+
+## guarantee
+```
+v. 确保；保证；担保
+
+n. 保证；担保（书）；保修单
+
+to give a guarantee of good behaviour
+
+保证行为端正
+```
+
+## priority
+```
+/praɪ'ɒrəti/
+
+n. 优先权；优先事项，首要的事情
+Our first priority is to improve standards.
+
+我们的头等大事是提高水平。
+```
+
+## accomplish
+```
+/ə'kʌmplɪʃ/
+I don't feel I've accomplished very much today.
+
+我觉得我今天没干成多少事。
 ```

@@ -13,12 +13,6 @@ vi.  高速行驶；
 adj.
 额外的，附加的；另外的，追加的；补充；外加
 
-## glare
-vt.& vi. 怒目而视；
-
-vi.发强光；
-
-n.强光；怒视；瞪眼；炫耀
 
 ## childish
 adj. 幼稚的；孩子气的；不复杂的；
@@ -53,17 +47,6 @@ She stirred her coffee.
 adj. 必须做的, 义务的; 强制的, 强迫的
 
 Is English a compulsory subject?
-```
-
-## garment
-```
-[ˈgɑ:mənt]
-n. 衣服；服装；
-
-v. 给…穿衣服；
-
-This shop sells garments of all kinds.
-这家商店销售各式各样的衣服。
 ```
 
 ## backwards
@@ -164,16 +147,6 @@ n. 珠宝, 首饰, 珠宝饰品
 She likes to wear gold jewelry.
 她喜欢戴金首饰。
 ```
- ## deceive
- ```
- v. 欺骗, 蒙骗, 诓骗, 欺骗（自己）
- People are deceived by the advertisement into buying fake goods.
-
-人们受到了这则广告的欺骗，买了假货。
-
-cheat: 普通用词，指用蒙蔽他人的手段取得所需之物，尤多指在赢利的买卖中欺骗人。
-deceive: 最普通用词，指用虚假外表使人信以为真，或蓄意歪曲事实，或造成错误印象使人上当受骗。
-```
 
 ## negotiation
 ```
@@ -184,49 +157,7 @@ Their hopes of a negotiation turned out to be illusory.
 
 他们希望进行谈判的想法是不实际的。
 ```
-## withhold
-```
-v. 拒给, 不给; 使停止, 阻挡; 隐瞒; 克制; 抑制
 
-This man was accused of withholding crucial information from the police.
-
-这个人被指控向警方隐瞒了关键信息。
-```
-## reinforce
-```
-v. 加强，加固；强化
-
-She reinforced her opinion that robots will never replace human beings.
-
-她重申了她的观点，即机器人永远不会取代人类。
-```
-## certainty
-```
-n. 确定，确信；确实的事情
-
-We have no certainty of success.
-
-我们没有成功的把握。
-```
-
-``
-
-## dorm
-```
-n. 〈美口〉宿舍
-When I was in the six-bed dorm it was terribly noisy.
-
-我住六人间宿舍时，环境很嘈杂。
-``` 
-
-## dictator
-```
-/dɪkˈteɪtə/
-n. 独裁者；独断专行的人
-The political system makes it unlikely for the president to be a dictator.
-
-这种政治体制不太可能让总统变成独裁者。
-```
 ## devise
 ```
 v. 设计; 发明; 策划; 想出; [律]遗赠; <古>图谋
@@ -320,22 +251,16 @@ Every team member admires the leader of great charm.
 
 团队里的每位成员都钦佩这位富有魅力的领导者
 ```
-## counsel
+
+## earnest
 ```
-/'kaʊnsl/
-n. 劝告，忠告，建议；法律顾问；律师
+adj. 非常认真的, 诚实的, 真诚的
 
-v. 提供专业咨询；建议，劝告
+n. 认真, 热心, 保证金, 预兆
 
-Counsel for the defense submitted that his client was clearly innocent.
+例句
 
-被告的律师辩称其委托人显然是无辜的
-```
-## Easter
-```
-n. 【基督】复活节, 复活节假期
+The cold-blooded man turned down her earnest plea for help.
 
-the Easter holidays/vacation
-
-复活节假期
+这个冷血的男人拒绝了她诚恳的求助
 ```

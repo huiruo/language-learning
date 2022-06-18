@@ -6,7 +6,6 @@
 ## spend
 ## spoil
 ## stiumulate
-## strengthen
 ## supply
 ## support
 ## suppress
