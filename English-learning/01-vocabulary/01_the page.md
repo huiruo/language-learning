@@ -41,23 +41,6 @@ n. 搅动；骚乱；激动；微动
 She stirred her coffee.
 她搅了搅咖啡。
 ```
-## compulsory
-```
-/kəm'pʌlsəri/
-adj. 必须做的, 义务的; 强制的, 强迫的
-
-Is English a compulsory subject?
-```
-
-## backwards
-```
-[ˈbækwədz]
-adj. 向后的；倒行的；返回的；落后的
-adv. 向后；往后；倒；逆
-
-He stepped on a banana skin and fell backwards.
-他不小心踩到一个香蕉皮，仰面摔倒了。
-```
 ## solemn
 ```
 /'sɒləm/
@@ -76,15 +59,7 @@ n. 知己
 You have to be confident in yourself for every exam.
 对每次考试你都得自信。
 ```
-## isolate
-```
-/'aɪsəleɪt/
-v. 使隔离，使孤立
 
-Many people get isolated for observation during the outbreak of the flu.
-
-很多人在流感爆发期间被隔离观察。
-```
 ## alongside
 ```
 prep. 在…旁边；与…一起
@@ -112,17 +87,6 @@ n. 兴奋, 激动；紧张感；惊险读物；恐怖小说(电影等)；[医]�
 
 There's the place that never fails to thrill me.
 那是个永远让我激动不已的地方。
-```
-
-
-## perceive
-```
-/pə'siːv/
-v. 认为，视为；察觉，感觉，认知
-
-The youngsters must perceive the relationship between success and effort.
-
-年轻人必须认识到成功与努力之间的关系。
 ```
 
 ## jewelry
@@ -247,4 +211,13 @@ n. 认真, 热心, 保证金, 预兆
 The cold-blooded man turned down her earnest plea for help.
 
 这个冷血的男人拒绝了她诚恳的求助
+```
+
+## productive
+```
+adj. 多产的，高产的；富有成效的
+
+The aim was to maximize the machine's productive capacity.
+
+其目的是最大化机器生产能力。
 ```
