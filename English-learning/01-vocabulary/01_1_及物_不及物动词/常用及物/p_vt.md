@@ -2,7 +2,6 @@
 ## place
 ## play
 ## pose
-## possess
 ## predict
 ## preserve
 ## prohibit

@@ -258,15 +258,6 @@ to give a guarantee of good behaviour
 保证行为端正
 ```
 
-## priority
-```
-/praɪ'ɒrəti/
-
-n. 优先权；优先事项，首要的事情
-Our first priority is to improve standards.
-
-我们的头等大事是提高水平。
-```
 
 ## accomplish
 ```

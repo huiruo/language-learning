@@ -17,30 +17,6 @@ adj.
 ## childish
 adj. 幼稚的；孩子气的；不复杂的；
 
-## crawl
-```
-vi. 爬行；缓慢行进；巴结；
-
-n. 缓慢的爬行；
-Babies often crawl on the floor before they learn to walk.
-
-婴儿在学会走路前，经常在地上爬。
-```
-
-## stir
-```
-/stɜː(r)/
-vt.& vi. （使）移动；搅拌；（使）行动；（使）微动
-
-vt. 使打起精神；使奋起；叫醒；唤起
-
-vi. 苏醒；奋起；传播；发生
-
-n. 搅动；骚乱；激动；微动
-
-She stirred her coffee.
-她搅了搅咖啡。
-```
 ## solemn
 ```
 /'sɒləm/
@@ -68,15 +44,6 @@ adv. 在一旁
 Much of the land alongside the river is below sea level.
 
 沿河的很多土地都在海平面以下
-```
-
-## settlement
-```
-n. 协议，和解；清偿，结算；定居地；殖民（地）；定居点，村落；沉降，下陷
-
-Negotiators are looking for a peaceful settlement to the dispute.
-
-谈判双方正寻求和平解决争端的办法
 ```
 
 ## thrill
@@ -220,4 +187,12 @@ adj. 多产的，高产的；富有成效的
 The aim was to maximize the machine's productive capacity.
 
 其目的是最大化机器生产能力。
+```
+
+## casual
+```
+adj. 漫不经心的，随便的；非正式的；临时的；碰巧的；不定期的，偶尔的
+
+a casual manner
+漫不经心的样子
 ```
