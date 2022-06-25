@@ -7,15 +7,6 @@ Beijing is flexing its military power in response to growing U.S. support for th
 n 恐怖；惊吓；可怕的东西，难看的人；
 
 
-## session
-```
-n. （议会的）会议；（法庭的）开庭； 会期，学期； （进行某活动连续的）一段时间
-
-An emergency session was held to cope with this sudden attack.
-
-将召开一场紧急的会议应对这一突然的袭击。
-```
-
 ## indicate
 ```
 v. 显示，表明；暗示；是……的标志，象征

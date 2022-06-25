@@ -110,13 +110,6 @@ the theory and practice of language teaching
 
 语言教学理论与实践
 ```
-## accommodation
-```
-n. 住处；住宿，膳宿；和解，调解，通融；适应，调节
-
-Hotel accommodation is included in the price of your holiday.
-你旅馆住宿包括在了度假价款内。
-```
 
 
 ## facility
@@ -125,14 +118,6 @@ n. 设备，设施； 附加服务，附加功能；天赋；娴熟，灵巧
 
 The recreational facilities are now available to the public.
 娱乐设备现在已经可以供公众使用。
-```
-## apparent
-```
-If she had inner doubts, it was not apparent to anyone else.
-
-她若心中生疑亦不形之于色。
-
-appearance  外貌，外观
 ```
 ## understanding
 ```
