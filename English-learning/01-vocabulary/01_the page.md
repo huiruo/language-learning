@@ -17,14 +17,6 @@ adj.
 ## childish
 adj. 幼稚的；孩子气的；不复杂的；
 
-## solemn
-```
-/'sɒləm/
-adj. 严肃的，庄严的，正式的；郑重的
-A solemn expression was on her face at the funeral.
-
-在葬礼上，她的脸上的神情很肃穆。
-```
 
 ## confident
 ```
@@ -73,16 +65,6 @@ Their hopes of a negotiation turned out to be illusory.
 他们希望进行谈判的想法是不实际的。
 ```
 
-## devise
-```
-v. 设计; 发明; 策划; 想出; [律]遗赠; <古>图谋
-
-n. 遗赠财产的遗嘱(或其中的条款), 遗赠的财产
-
-The team's task is to devise a method to improve efficiency and reduce costs.
-
-这个团队的任务是构想出增效减支的方法。
-```
 ## charming
 ```
 adj. 迷人的, 楚楚动人的, 英俊的, 潇洒的
@@ -180,4 +162,24 @@ adj. 漫不经心的，随便的；非正式的；临时的；碰巧的；不定
 
 a casual manner
 漫不经心的样子
+```
+
+## vibration
+```
+[vaɪˈbreɪʃn]
+
+n. 振动;震动;颤动;抖动;(感情的)共鸣
+Less important notifications without any sound or vibration.
+```
+
+## echo
+```
+/'ekəʊ/
+
+n. 回声；仿效；重复；附和
+
+v. 发出回声；附和；仿效，模仿
+
+There was an echo on the phone and I couldn't hear clearly.
+电话里有回音，我听不清楚。
 ```

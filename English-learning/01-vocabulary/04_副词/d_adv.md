@@ -86,12 +86,6 @@ He studies more diligently than his friend.
 他比他的朋友更勤奋地学习。
 ```
 
-## dimly
-```
-[ˈdɪmli]
-adv.
-昏暗地，朦胧地，模糊地；
-```
 
 ## doubtfully
 ```

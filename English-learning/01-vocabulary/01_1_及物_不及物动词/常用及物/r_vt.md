@@ -15,7 +15,6 @@
 ## respect
 ## resolve
 ## restore
-## retain
 ## reverse
 ## review
 ## remind
