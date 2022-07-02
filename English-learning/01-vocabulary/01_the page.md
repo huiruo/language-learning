@@ -55,15 +55,6 @@ She likes to wear gold jewelry.
 她喜欢戴金首饰。
 ```
 
-## negotiation
-```
-/nɪˌɡəʊʃi'eɪʃn/
-n. 谈判, 协商, 磋商
-
-Their hopes of a negotiation turned out to be illusory.
-
-他们希望进行谈判的想法是不实际的。
-```
 
 ## charming
 ```
@@ -91,15 +82,6 @@ n. 理论, 原理, 学说, 原则
 the theory and practice of language teaching
 
 语言教学理论与实践
-```
-
-
-## facility
-```
-n. 设备，设施； 附加服务，附加功能；天赋；娴熟，灵巧
-
-The recreational facilities are now available to the public.
-娱乐设备现在已经可以供公众使用。
 ```
 ## understanding
 ```
