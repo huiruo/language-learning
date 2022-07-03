@@ -222,31 +222,3 @@ She works so fast that I can't keep pace with her.
 
 她工作得很快，我跟不上她的速度。
 ```
-
-## guarantee
-```
-v. 确保；保证；担保
-
-n. 保证；担保（书）；保修单
-
-to give a guarantee of good behaviour
-
-保证行为端正
-```
-
-
-## accomplish
-```
-/ə'kʌmplɪʃ/
-I don't feel I've accomplished very much today.
-
-我觉得我今天没干成多少事。
-```
-
-## performance
-```
-n. 性能, 表现, 业绩, 表演
-They gave an excellent performance of classical music in the theater.
-
-他们在剧场呈现了一场精彩绝伦的古典音乐演出。
-```
