@@ -163,32 +163,6 @@ We can't go any farther without a rest.
 
 不休息我们就走不动了。
 ```
-
-## remark
-```
-n. 评论；注意；言辞
-v. 评论
-
-He made a number of rude remarks about the food.
-
-
-关于这里的食物他说了许多无礼的评论。
-mark 标记
-```
-
-## thrust
-```
-v. 猛推, 刺, 塞, 冲, 挤
-n. 刺, 插, 重点, 猛推
-
-He thrust the money into his father's hand.
-他把钱塞到他父亲的手里。
-
-trust 
-n. 信任; 信托; 照管; 受托基金机构
-vt.& vi. 相信， 信任 vt. 相信; 对…有信
-```
-
 ## renew
 ```
 v. 更新, 更换, 重新开始, 中止后继续

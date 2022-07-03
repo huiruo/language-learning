@@ -93,18 +93,6 @@ They have to have a basic understanding of computers in order to find a job.
 
 要找到工作，他们必须具备对电脑的基本了解。
 ```
-## compose
-```
-v. 组成；写作；作曲；使镇静
-
-He picked up his guitar and began to compose a song.
-
-他拿起他的吉他，开始写歌
-
-composition [kɔmpə'ziʃən]
-   
-n. 作文,著作,组织,合成物，成份
-```
 ## charm
 ```
 n. 魔力；魅力，吸引力；护身符；小饰物

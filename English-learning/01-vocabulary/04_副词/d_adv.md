@@ -56,13 +56,6 @@ He was deeply involved with the anti-drugs crusade.
 I know that her condition hurt her deeply.
 我知道这深深地刺痛着她。
 ```
-
-## defiantly
-```
-[dɪ'faɪəntlɪ]
-adv.
-挑战地，大胆对抗地；
-```
 ## deliberately
 ```
 [dɪˈlɪbərətli]

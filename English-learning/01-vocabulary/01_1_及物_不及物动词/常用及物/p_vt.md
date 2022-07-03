@@ -7,7 +7,5 @@
 ## prohibit
 ## promote
 ## protect
-## provide
-## provoke
 ## pursue
 ## prove
