@@ -192,42 +192,7 @@ The company is unable to absorb such huge losses.
 公司无法承担如此巨大的亏损。
 ```
 
-## abuse
-n. 滥用;妄用;虐待;辱骂;恶语
-vt. 滥用(以致危害健康);滥用，妄用(权力、所知所闻);虐待;性虐待;伤害;辱骂
--  ~ (of sth)
-滥用；妄用
-```
-He was arrested on charges of corruption and abuse of power .
-他因被控贪污腐化和滥用职权而遭逮捕。
 
-What she did was an abuse of her position as manager.
-她的所作所为是滥用经理职权。
-```
-- n 
-```
-She suffered years of physical abuse.
-她遭受了多年的肉体摧残。
-```
-
-## accelerate
-vt. 促进; （使）加快，（使）增速; 加速，催促; 速度增加 vi. 加快，加速
-- （使）加速，加快
-```
-Inflation continues to accelerate.
-通货膨胀不断加速。
-```
-- 交通工具或人) 加速；加快
-```
-The runners accelerated smoothly around the bend.
-赛跑运动员在转弯处顺畅地加速。
-
-The car accelerated to overtake me.
-那辆汽车加速超过了我。
-
-We need to accelerate the pace of change in our backward country. 
-我们应当为落后的祖国加快变革的脚步。
-```
 
 ## achieve
 vt. 实现; 取得; 获得; 成功 vi. 达到预期的目的，实现预期的结果，如愿以偿

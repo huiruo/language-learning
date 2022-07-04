@@ -38,13 +38,6 @@ adv.
 有规律地，按时，照例，按部就班地；
 ```
 
-## reluctantly
-```
-[rɪ'lʌktəntlɪ]
-adv.
-不情愿地，勉强地；
-```
-
 ## repeatedly
 ```
 adv.

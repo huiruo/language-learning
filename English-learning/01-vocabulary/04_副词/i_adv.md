@@ -33,20 +33,6 @@ adv.
 过分好奇地；好问地；
 ```
 
-## instantly
-```
-[ˈɪnstəntli]
-adv.
-立即，马上，立刻；马上地；即刻地；立即地
-
-conj.
-一…就；
-
-She sobered instantly and stared at him.
-她立即地使沈著而且盯著他看。
-Then the magician forcefully blows onto the face of the card and the pip instantly reappears.
-然后魔术师强有力地吹在卡片上的面孔，并且小核立即地再现。
-```
 
 ## intensely
 ```

@@ -2,7 +2,6 @@
 ## allow
 ## abandon
 ## absorb
-## abuse
 ## accelerate
 ## achieve
 ## acquire

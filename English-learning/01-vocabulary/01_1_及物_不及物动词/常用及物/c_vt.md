@@ -10,7 +10,6 @@
 ## conduct
 ## confirm
 ## confront
-## consume
 ## control
 ## convey
 ## crate
