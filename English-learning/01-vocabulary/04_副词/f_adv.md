@@ -159,17 +159,3 @@ adv.
 She began furiously dabbing at it with a napkin.
 她开始狂怒地用纸巾擦。
 ```
-
-## forth
-```
-adv.  向前，向前方；露着的，往外的；
-prep. 出自，从…离开；
-
-The guard walked back and forth in front of the gate.
-警卫在大门前走来走去。
-
-The trees burst forth in spring.
-树木在春天开始抽芽。
-This tiny flower gives forth a pleasant fragrance.
-这种小花散发出一种令人愉快的香味。
-```

@@ -67,15 +67,7 @@ How charming this street is!
 Her colorful character makes her very charming.
 她生动活泼的性格使她富有魅力。
 ```
-## phase
-```
-/feɪz/
-n. 阶段, 时期; 相; 位相
-v. 使定相, 使同步; 分阶段实行
 
-Our country is entering a new phase of its development.
-我们的国家进入了发展的新阶段。
-```
 ## theory
 ```
 n. 理论, 原理, 学说, 原则

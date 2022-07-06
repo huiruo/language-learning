@@ -3,9 +3,6 @@
 ## play
 ## pose
 ## predict
-## preserve
 ## prohibit
-## promote
-## protect
 ## pursue
 ## prove

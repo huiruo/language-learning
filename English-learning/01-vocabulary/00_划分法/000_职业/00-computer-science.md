@@ -10,6 +10,14 @@ a constant stream of visitors all day
 整天络绎不绝的游客
 ```
 
+## context
+```
+n. 背景，环境；上下文，语境
+
+In the context of the present economic crisis it seems unwise to lower taxes.
+鉴於当前的经济危机，降低税率似乎不妥。
+```
+
 ## performance
 ```
 n. 性能, 表现, 业绩, 表演
