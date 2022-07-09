@@ -9,10 +9,6 @@ vt.
 装进桶里，放进桶里；
 
 vi.  高速行驶；
-## additional
-adj.
-额外的，附加的；另外的，追加的；补充；外加
-
 
 ## childish
 adj. 幼稚的；孩子气的；不复杂的；
@@ -37,17 +33,6 @@ Much of the land alongside the river is below sea level.
 
 沿河的很多土地都在海平面以下
 ```
-
-## thrill
-```
-v. 使兴奋, 使激动；使颤动；震颤；感到非常兴奋；感到紧张
-
-n. 兴奋, 激动；紧张感；惊险读物；恐怖小说(电影等)；[医]震颤
-
-There's the place that never fails to thrill me.
-那是个永远让我激动不已的地方。
-```
-
 ## jewelry
 ```
 n. 珠宝, 首饰, 珠宝饰品
