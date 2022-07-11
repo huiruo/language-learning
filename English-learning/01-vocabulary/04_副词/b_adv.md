@@ -61,13 +61,6 @@ adv.
 They were true beachers about how to live blissfully and go through life blessedly.
 他们是真正教人如何快乐幸福地生活的老师。
 ```
-
-## boastfully
-```
-adv.
-自夸地；
-```
-
 ## boldly
 ```
 ['bəʊldlɪ]

@@ -26,6 +26,11 @@ They gave an excellent performance of classical music in the theater.
 他们在剧场呈现了一场精彩绝伦的古典音乐演出。
 ```
 
+## portfolio
+```
+文件夹
+```
+
 ## margin
 ```
 n. 页边, 白边; 边缘; 极限; 界限; 利润; 差额; 余地, 备用的时间[金钱或空间]; 定金交易; 保证金
