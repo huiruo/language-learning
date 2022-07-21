@@ -1,9 +1,0 @@
-## inform
-## ignore
-## imitate
-## impair
-## impose
-## improve
-## increse
-## initiate
-## integrate

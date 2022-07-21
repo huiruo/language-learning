@@ -41,3 +41,15 @@ Please write on both sides of the paper, and don't write in the margin.
 
 请在纸的正反两面书写, 但不要写在四周的边上。
 ```
+
+## enumerate
+```
+/ɪ'njuːməreɪt/
+v. 枚举, 列举
+
+The professor enumerated all his works and awards he had got.
+教授列举了他所有的作品和获得的奖励。
+
+She enumerated the items we had to buy.
+她列出了我们要买的东西。
+```

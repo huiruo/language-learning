@@ -1,0 +1,17 @@
+## afford
+## allow
+## abandon
+## absorb
+## accelerate
+## achieve
+## acquire
+## address
+## admire
+## adopt
+## affect
+## allocate
+## alter
+## analyse
+## appreciate
+## attain
+## attract

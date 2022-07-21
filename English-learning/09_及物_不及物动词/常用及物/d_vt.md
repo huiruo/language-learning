@@ -1,0 +1,19 @@
+## deny
+## damage
+## debate
+## delay
+## deliver
+## demonstrate
+## deny
+## deserve
+## destroy
+## determine
+## develop
+## discuss
+## dismiss
+## display
+## disregard
+## disrupt
+## distract
+## distribute
+

@@ -22,3 +22,11 @@ adv. 此外, 而且
 She enjoys dancing and, moreover, is good at it.
 她不仅喜欢跳舞，还很擅长。
 ```
+
+## afterward
+```
+adv. 之后, 后来
+
+We had tea, and afterward we talked for a while.
+我们喝了茶，之后又谈了会。
+```
