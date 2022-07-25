@@ -26,6 +26,12 @@ They gave an excellent performance of classical music in the theater.
 他们在剧场呈现了一场精彩绝伦的古典音乐演出。
 ```
 
+## optimize
+```
+[ˈɒptɪmaɪz]
+vt. 优化;使最优化;充分利用
+```
+
 ## portfolio
 ```
 文件夹
