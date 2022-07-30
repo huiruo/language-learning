@@ -59,3 +59,13 @@ The professor enumerated all his works and awards he had got.
 She enumerated the items we had to buy.
 她列出了我们要买的东西。
 ```
+
+## paste
+```
+/peɪst/
+n. 面团, 糨糊, 肉（或鱼等）酱（作涂抹料或烹饪用）
+v. 粘贴, 粘合, 拼贴, 贴入
+
+Good quality paste is needed for sticking wallpaper to the walls.
+把墙纸贴在墙上需要质量好的胶水。
+```
